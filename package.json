@@ -1,6 +1,6 @@
 {
 	"name": "earthworm",
-	"version": "0.1",
+	"version": "0.0.2",
 	"description": "Asynchronic callback handler",
 	"main": "./lib/main.js",
 	"scripts": {
